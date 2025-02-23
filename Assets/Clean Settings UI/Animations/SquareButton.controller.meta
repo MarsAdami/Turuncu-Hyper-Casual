@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d374a809406b4b858eed40a2011661a
+timeCreated: 1466353399
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65588
+  packageName: Clean Settings UI
+  packageVersion: 1.0
+  assetPath: Assets/Clean Settings UI/Animations/SquareButton.controller
+  uploadId: 125573

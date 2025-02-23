@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bc72610e5ee04f2b9832aa65c9270c4
+timeCreated: 1466632601
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65588
+  packageName: Clean Settings UI
+  packageVersion: 1.0
+  assetPath: Assets/Clean Settings UI/Prefabs/Scrollbar.prefab
+  uploadId: 125573

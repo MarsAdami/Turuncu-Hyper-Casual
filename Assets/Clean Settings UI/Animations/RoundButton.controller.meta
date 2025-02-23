@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66c7cdaae46d94ff29990dcdeba14d7c
+timeCreated: 1466451350
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65588
+  packageName: Clean Settings UI
+  packageVersion: 1.0
+  assetPath: Assets/Clean Settings UI/Animations/RoundButton.controller
+  uploadId: 125573

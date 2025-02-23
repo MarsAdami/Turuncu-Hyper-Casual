@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c161cbe1d02774c6a988b00b2d8baadf
+timeCreated: 1466342238
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65588
+  packageName: Clean Settings UI
+  packageVersion: 1.0
+  assetPath: Assets/Clean Settings UI/Clean Settings UI.unity
+  uploadId: 125573
